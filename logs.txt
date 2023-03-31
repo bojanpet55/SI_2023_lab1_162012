@@ -1,0 +1,17 @@
+commit 0ef7a07ed0eb3ac7d47211779a59bba142c39ef1
+Author: unknown <bojanpet55@gmail.com>
+Date:   Fri Mar 31 15:27:23 2023 +0200
+
+    Fix wrong loop for reading
+
+commit e59fab6112b460288fa3f1ebc5053e80321938ec
+Author: unknown <bojanpet55@gmail.com>
+Date:   Fri Mar 31 14:42:24 2023 +0200
+
+    Add Java class
+
+commit df48d24a984187adfa9368bc3a90e02ced07d473
+Author: unknown <bojanpet55@gmail.com>
+Date:   Fri Mar 31 14:38:14 2023 +0200
+
+    initial commit
