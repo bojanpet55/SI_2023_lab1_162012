@@ -1,2 +1,47 @@
-Го немам документирано секоја комада што ја напишав
+*Не водев белешка за кој команди ги пишував редоследно, ама овие генерално ги користев. Но сепак може да има промени во редоследот на командите што се напишани тука
+во споредба со редоследот на извршени команди во github.
+1. https://github.com/bojanpet55
+2. направено
+3. https://github.com/bojanpet55/SI_2023_lab1_162012
+4.$ git init
+5.$ git remote add origin 
+6. nano readme.md
+$ git add readme.md
+$ git commit -m "initial commit"
+7. nano SIlab1.java
+$ git add SIlab1.java
+$ git commit -m "add java class"
+8. направено
+9. nano bug1,bug2,bug3
+10. $git checkout bug1
+$git add bug1.java
+$git commit -m "fix wrong loop for reading"
+11. $ git checkout bug2
+12. $ git add bug2.java
+13. $ git commit -m "fix wrong condition in fillterOddNUmbers"
+14. $ checkout bug3
+15. $ git add bug3.java
+$ git commit -m "fix method sum even numbers"
+16. $ git push
+17. $ git checkout master
+18. $ git merge bug1
+19. $git push
+20. $ git merge bug2
+21. $git push
+22. $ git checkout bug3
+23.$ git rebase master
+24. $ git checkout master
+25. $git merge bug3
+26. $git push
+27. $git log >> logs.txt
+nano 162012.txt
+$git add logs.txt 162012.txt
+$git commit -m "final commit"
+28. $git push
+29. https://github.com/bojanpet55/SI_2023_lab1_162012/branches
+30. $git clone ...
+31. nano 162012.txt
+32.$ git push
+33. done
+
 
